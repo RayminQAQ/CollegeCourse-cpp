@@ -1,0 +1,1 @@
+Please read all data from "input.txt" and create a new file "output.txt" as the format.
